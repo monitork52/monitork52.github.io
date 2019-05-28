@@ -24,7 +24,8 @@ redirect_from:
   * GigE 카메라 IP 및 NIC IP 설정
   * FireWire / USB3 카메라 검색  
   <img src="/images/imiVisionCfg.png" width="600">
-
+  
+  
  ## `IP 카메라 관제 시스템` [ 2014.11 ~  ]
 다수의 IP 카메라에 대해 녹화 및 실시간 영상 제공
 * 개발 역할
