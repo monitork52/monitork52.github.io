@@ -16,7 +16,7 @@ redirect_from:
   * Image 프로파일링 ( Vector Scope, Vertical, Horizontal, Histogram ... )  
   * 영상 레코딩 ( FFMPEG )  
   <img src="/images/NeptuneViewer.png" width="600">
-
+  
 ## `Vision Manager 개발` [ 2017.10 ~ 2018.01 ]
 자사 Vision Camera 검색 및 환경 설정 프로그램
 * 개발 역할
