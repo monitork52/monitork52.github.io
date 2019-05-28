@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "양경모"
-  avatar           : "mo.jpg"
+  avatar           : "/images/mo.jpg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"경기도 의왕시 흥안대로 434번길 86, 204-2104"
   employer         :
