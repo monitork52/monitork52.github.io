@@ -15,15 +15,14 @@ redirect_from:
   * UI 개발
   * Image 프로파일링 ( Vector Scope, Vertical, Horizontal, Histogram ... )  
   * 영상 레코딩 ( FFMPEG )  
-  
-<img src="/images/NeptuneViewer.png" width="600">
+  <img src="/images/NeptuneViewer.png" width="600">
 
 ## `Vision Manager 개발` [ 2017.10 ~ 2018.01 ]
 자사 Vision Camera 검색 및 환경 설정 프로그램
 * 개발 역할
   * GigE 카메라 검색
   * GigE 카메라 IP 및 NIC IP 설정
-  * FireWire / USB3 카메라 검색 
+  * FireWire / USB3 카메라 검색  
   <img src="/images/imiVisionCfg.png" width="600">
 
  ## `IP 카메라 관제 시스템` [ 2014.11 ~  ]
