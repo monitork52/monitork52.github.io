@@ -4,7 +4,7 @@ Name Name:
   name        : "monitork"
   uri         : "http://monitork52.github.io"
   email       : "monitork@nate.com"
-  bio         : "This is the first name."
+  bio         : #"This is the first name."
   avatar      : 
   twitter     : 
   google_plus : 
